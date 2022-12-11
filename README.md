@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lucas Magra</h1>
 <h3 align="center">A passionate fullstack developer from Argentina</h3>
 
-- 💬 Ask me about **javascript, nodejs, reactjs, nextjs, css, tailwindcss, express, sequelize, postgresql**
-
 - 📫 How to reach me **luqasmagra@gmail.com**  /  **https://www.linkedin.com/in/luqasmagra/**
 
 <h3 align="center">Languages and Tools:</h3>
