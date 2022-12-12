@@ -6,9 +6,6 @@
 ### <div align="center">I'm Lucas Magra, a full-time full-stack developer 👨‍💻 </div>  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
 <br/>  
 
 
