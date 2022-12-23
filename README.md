@@ -1,3 +1,4 @@
+<div align="center">
 # 💫 About Me:
 Full Stack developer based in Argentina
 
@@ -16,3 +17,4 @@ Full Stack developer based in Argentina
 [![](https://visitcount.itsvg.in/api?id=luqasmagra&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  </div>
