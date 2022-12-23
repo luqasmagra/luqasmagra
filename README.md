@@ -1,7 +1,7 @@
 <div align="center">
   
 # 💫 About Me:
-  <h1>Full Stack developer based in Argentina</h1>
+  <h3>Full Stack developer based in Argentina</h3>
 
 
 ## 🌐 Socials:
